@@ -90,15 +90,15 @@ I believe **models are useless unless they solve real problems**.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshithreddy39&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PUNITH-V&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshithreddy39&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PUNITH-V&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithreddy39&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNITH-V&theme=radical&hide_border=false&layout=compact" />
 </p>
 
 ---
