@@ -1,7 +1,3 @@
-# punith-v
-
-> Recruiter-friendly proof and contact path.
-
 Hi, I'm **punith-v**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
