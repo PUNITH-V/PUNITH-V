@@ -10,7 +10,7 @@
 
 <br>
 
-**Final-year B.Tech CSE (AI & ML)**, Woxsen University, Hyderabad
+**Final-year B.Tech CSE (AI & ML)**, Woxsen University, Hyderabad -
 Voice agents, RAG systems, and LLM tooling, built to work outside a demo.
 Notes and experiments live in [WorkBench](https://github.com/PUNITH-V/WorkBench).
 
