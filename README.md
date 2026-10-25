@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hello.gif" width="420" alt="hello" />
+<img src="assests/hello.gif" width="420" alt="hello" />
 
 # Hello, I'm Punith
 
